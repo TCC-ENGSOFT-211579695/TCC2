@@ -1,0 +1,15 @@
+C:\Users\Administrador\source\repos\ClientSide\ClientSide\bin\Debug\DataVisualizer.exe
+C:\Users\Administrador\source\repos\ClientSide\ClientSide\bin\Debug\DataVisualizer.pdb
+C:\Users\Administrador\source\repos\ClientSide\ClientSide\bin\Debug\DataCompression.dll
+C:\Users\Administrador\source\repos\ClientSide\ClientSide\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Administrador\source\repos\ClientSide\ClientSide\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Administrador\source\repos\ClientSide\ClientSide\bin\Debug\DataCompression.pdb
+C:\Users\Administrador\source\repos\ClientSide\ClientSide\obj\Debug\DataVisualizer.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\ClientSide\ClientSide\obj\Debug\ClientSide.CoilDataSelectionPopUp.resources
+C:\Users\Administrador\source\repos\ClientSide\ClientSide\obj\Debug\ClientSide.CoilDataVisualizer.resources
+C:\Users\Administrador\source\repos\ClientSide\ClientSide\obj\Debug\DataVisualizer.Properties.Resources.resources
+C:\Users\Administrador\source\repos\ClientSide\ClientSide\obj\Debug\DataVisualizer.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\ClientSide\ClientSide\obj\Debug\DataVisualizer.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\ClientSide\ClientSide\obj\Debug\DataVisualizer.csproj.CopyComplete
+C:\Users\Administrador\source\repos\ClientSide\ClientSide\obj\Debug\DataVisualizer.exe
+C:\Users\Administrador\source\repos\ClientSide\ClientSide\obj\Debug\DataVisualizer.pdb

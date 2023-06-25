@@ -1,0 +1,11 @@
+C:\Users\Administrador\source\repos\DataCompression\DataCompressor\bin\Debug\DataCompressor.exe
+C:\Users\Administrador\source\repos\DataCompression\DataCompressor\bin\Debug\DataCompressor.pdb
+C:\Users\Administrador\source\repos\DataCompression\DataCompressor\bin\Debug\DataCompression.dll
+C:\Users\Administrador\source\repos\DataCompression\DataCompressor\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Administrador\source\repos\DataCompression\DataCompressor\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Administrador\source\repos\DataCompression\DataCompressor\bin\Debug\DataCompression.pdb
+C:\Users\Administrador\source\repos\DataCompression\DataCompressor\obj\Debug\DataCompressor.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\DataCompression\DataCompressor\obj\Debug\DataCompressor.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\DataCompression\DataCompressor\obj\Debug\DataCompressor.csproj.CopyComplete
+C:\Users\Administrador\source\repos\DataCompression\DataCompressor\obj\Debug\DataCompressor.exe
+C:\Users\Administrador\source\repos\DataCompression\DataCompressor\obj\Debug\DataCompressor.pdb

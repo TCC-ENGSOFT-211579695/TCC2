@@ -1,0 +1,6 @@
+C:\Users\Administrador\source\repos\DataCompression\DataCompression\bin\Debug\DataCompression.dll
+C:\Users\Administrador\source\repos\DataCompression\DataCompression\bin\Debug\DataCompression.pdb
+C:\Users\Administrador\source\repos\DataCompression\DataCompression\obj\Debug\DataCompression.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\DataCompression\DataCompression\obj\Debug\DataCompression.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\DataCompression\DataCompression\obj\Debug\DataCompression.dll
+C:\Users\Administrador\source\repos\DataCompression\DataCompression\obj\Debug\DataCompression.pdb
